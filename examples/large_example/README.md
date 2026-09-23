@@ -1,23 +1,14 @@
-# Large-scale Numerical Example
+# Results
 
-This folder contains the large-scale numerical example used to evaluate
-the scalability of the mutual edit game synthesis framework.
+This folder contains the numerical results obtained from the mutual edit game construction and pruning procedure.
 
-The example includes:
+The reported results include:
 
-- Plant model
-- Observable event sets
-- Editable event sets
-- Secret sets
-- Insertion bound K
-- Generated mutual edit game structure
-
-The reported statistics include:
-
-- Number of plant states
-- Observer state sizes
-- Original mutual edit-game states
-- Reachable states
-- Pruned states
-- Disabled edit operations
-- Computational time
+- Original mutual edit-game size
+- Reachable game states
+- Number of pruned states
+- Number of disabled edit operations
+- Final pruned game size
+- Construction time
+- Pruning time
+- Scalability statistics
