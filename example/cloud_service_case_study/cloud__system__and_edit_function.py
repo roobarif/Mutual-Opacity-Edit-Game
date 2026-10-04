@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1Vd9DsASe1iTrWGLMS3x4xodqXxWQBu9D
 """
 
-!pip install graphviz
+#!pip install graphviz
 
 from collections import deque
 from graphviz import Digraph
@@ -378,7 +378,7 @@ plt.show()
 # LARGE CLOUD EXAMPLE: O1, O2 AND OD OBSERVER CONSTRUCTION
 # ============================================================
 
-!pip install graphviz
+#!pip install graphviz
 
 from collections import deque
 from graphviz import Digraph
