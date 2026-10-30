@@ -708,7 +708,7 @@ E_o2 = {
     'sigma_15', 'sigma_16', 'sigma_17'
 }
 
-# Defender: sigma_18 and sigma_19 are unobservable
+# Defender: sigma_19 and sigma_20 are unobservable
 E_D = dfa['alphabet'] - {'sigma_19', 'sigma_20'}
 
 
